@@ -12,6 +12,8 @@ Budget Tracker is a progressive web application that allows users to track their
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
+- [Credits](#credits)
+- [Badges](#badges)
 
 ## Installation
 
@@ -41,4 +43,25 @@ If you want to contribute, open a Pull Request and include a detailed descriptio
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact [Jeancarlos Mulet](https://github.com/jclos305) directly at Jeancarlosmulet@gmail.com.
+If you have any questions about the repo, open an issue or contact [Jeancarlos Mulet](https://github.com/jclos305) directly at Jeancarlosmulet@gmail.com
+
+## Credits
+
+For this Challange we referenced code in a similar project and my modules in class, Youtube, Google, Instructions from my Class TA's
+
+- Jordan 
+- Jocelyn 
+- Tim 
+- Cristian 
+
+and directions from my Instructor
+
+- Felicia O'Garra
+
+## Badges
+
+![JCLOS305](https://img.shields.io/badge/Orchestrated%20by-JCLOS305-blue)
+![UOM](https://img.shields.io/badge/University%20of-Miami-orange)
+
+
+© May 2022  JeanCarlos - University of Miami
